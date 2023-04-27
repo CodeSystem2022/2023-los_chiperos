@@ -1,5 +1,5 @@
 # `Los Chiperos Asistencia del Tercer Trimestre`
-![Screenshot_3](https://user-images.githubusercontent.com/96781254/233228206-40c6d2bc-0e2d-4aae-851e-ebd49c7e3481.jpg)
+![Screenshot_2](https://user-images.githubusercontent.com/96781254/235001574-38061c46-6f71-4658-acd1-c1fa5bdad35b.jpg)
 
 
 ## `Organización Semanal`
