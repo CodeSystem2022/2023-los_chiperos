@@ -6,11 +6,11 @@
 
 | **Semana** | **Scrum Master** |
 | ---- | ---- |
-| 🟢 semana 1 | *Cristian Alderete* |
-| 🟢 semana 2 | *Barrios Schallmoser Juan José* |
-| 🟢 semana 3 | *Gonzalo Araya* |
-| ⚪ semana 4 | *Martin Pertus* |
-| ⚪ semana 5 | *David Mercado* |
+| 🟢 semana 1 | *Gonzalo Araya* |
+| 🟢 semana 2 | *Martín Pertus* |
+| 🟢 semana 3 | *Nicolás Zelarayan* |
+| ⚪ semana 4 | *Cristian Alderete* |
+| ⚪ semana 5 | *Barrios Schallmoser Juán José* |
 | ⚪ semana 6 | *Leo Valdez* |
-| ⚪ semana 7 | *Nicolas Zelarayan* |
+| ⚪ semana 7 | *David Mercado* |
 | ⚪ semana 8 | *Agustin Gómez Aranda* |
