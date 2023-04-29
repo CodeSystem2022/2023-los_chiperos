@@ -1,16 +1,16 @@
 # `Los Chiperos Asistencia del Tercer Trimestre`
-![Screenshot_3](https://user-images.githubusercontent.com/96781254/233228206-40c6d2bc-0e2d-4aae-851e-ebd49c7e3481.jpg)
+![Screenshot_2](https://user-images.githubusercontent.com/96781254/235001574-38061c46-6f71-4658-acd1-c1fa5bdad35b.jpg)
 
 
 ## `Organización Semanal`
 
 | **Semana** | **Scrum Master** |
 | ---- | ---- |
-| 🟢 semana 1 | *Cristian Alderete* |
-| 🟢 semana 2 | *Barrios Schallmoser Juan José* |
-| 🟢 semana 3 | *Gonzalo Araya* |
-| ⚪ semana 4 | *Martin Pertus* |
-| ⚪ semana 5 | *David Mercado* |
+| 🟢 semana 1 | *Gonzalo Araya* |
+| 🟢 semana 2 | *Martín Pertus* |
+| 🟢 semana 3 | *Nicolás Zelarayan* |
+| ⚪ semana 4 | *Cristian Alderete* |
+| ⚪ semana 5 | *Barrios Schallmoser Juán José* |
 | ⚪ semana 6 | *Leo Valdez* |
-| ⚪ semana 7 | *Nicolas Zelarayan* |
+| ⚪ semana 7 | *David Mercado* |
 | ⚪ semana 8 | *Agustin Gómez Aranda* |
