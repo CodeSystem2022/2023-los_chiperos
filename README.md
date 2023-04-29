@@ -10,7 +10,7 @@
 | 🟢 semana 2 | *Martín Pertus* |
 | 🟢 semana 3 | *Nicolás Zelarayan* |
 | ⚪ semana 4 | *Cristian Alderete* |
-| ⚪ semana 5 | *Barrios Schallmoser Juán José* |
+| ⚪ semana 5 | *Barrios Schallmoser Juan José* |
 | ⚪ semana 6 | *Leo Valdez* |
 | ⚪ semana 7 | *David Mercado* |
 | ⚪ semana 8 | *Agustin Gómez Aranda* |
