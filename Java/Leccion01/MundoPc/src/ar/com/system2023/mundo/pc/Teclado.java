@@ -5,8 +5,8 @@ public class Teclado extends DispositivoEntrada {
   private static int contadorteclados;
   
   public Teclado(String TipoEntrada, String marca){
-    super(tipoEntrada, marca);
-    this.idTeclado = ++Teclado.contadorTeclados;
+    super(TipoEntrada, marca);
+    this.idTeclado = ++Teclado.contadorteclados;
   }
 
   @Override
