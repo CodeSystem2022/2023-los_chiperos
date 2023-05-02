@@ -8,9 +8,9 @@
 | ---- | ---- |
 | 🟢 semana 1 | *Gonzalo Araya* |
 | 🟢 semana 2 | *Martín Pertus* |
-| 🟢 semana 3 | *Nicolás Zelarayan* |
-| ⚪ semana 4 | *Cristian Alderete* |
-| ⚪ semana 5 | *Barrios Schallmoser Juan José* |
+| 🟢 semana 3 | *Barrios Schallmoser Juan José* |
+| ⚪ semana 4 | *Nicolás Zelarayan* |
+| ⚪ semana 5 | *Cristian Alderete* |
 | ⚪ semana 6 | *Leo Valdez* |
 | ⚪ semana 7 | *David Mercado* |
 | ⚪ semana 8 | *Agustin Gómez Aranda* |
