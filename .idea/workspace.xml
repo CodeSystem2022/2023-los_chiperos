@@ -5,9 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="135aed76-5309-4050-a24e-6021bc7ab7f5" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Java/Leccion03/Autoboxing_y_Unboxing.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -49,7 +47,7 @@
       <option name="presentableId" value="Default" />
       <updated>1683068760849</updated>
       <workItem from="1683068761496" duration="1792000" />
-      <workItem from="1683070601574" duration="918000" />
+      <workItem from="1683070601574" duration="1204000" />
     </task>
     <servers />
   </component>
