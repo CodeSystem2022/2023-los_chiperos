@@ -12,11 +12,11 @@ let persona = {
     }
 }
 
-console.log(persona.nombre); Carlos
-console.log(persona.apellido); Gil
-console.log(persona.email); 'egil@gmail.com'
-console.log(persona.edad); 30
-console.log(nombreCompleto()); Carlos_Gil
+console.log(persona.nombre); 
+console.log(persona.apellido);
+console.log(persona.email); 
+console.log(persona.edad); 
+console.log(persona.nombreCompleto());
 
 let persona2 = new Object();
 persona2.nombre = 'Juan';
