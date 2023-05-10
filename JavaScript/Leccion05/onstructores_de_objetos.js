@@ -15,3 +15,4 @@ console.log(padre.nombreCompleto());
 let madre = new persona3('laura', 'contrera', 'contreral@gmail.com');
 console.log(madre);
 console.log(madre.nombreCompleto());
+
