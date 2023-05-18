@@ -1,0 +1,46 @@
+package paquete1;
+
+import paquete2.Clase4;
+
+public class TestDefault {
+    public static void main(String[] args){
+        ClaseHija2 claseH2 = new ClaseHija2();
+        claseH2.atributoDefault = "cambio desde la prueba";
+        system.out.println("claseH2.atributoDefault= "+ claseH2.atributoDefault);
+
+        Clase4 Clase4= new Clase4("publico");
+        clase4.setAtributoPrivate("cambio");
+        system.out.println("clase4 = " + clase4.getAtributoPrivate());
+    }
+}
+
+
+package paquete2;
+
+public class Clase4 {
+    private String atributoPrivate = "atributoPrivado";
+
+    private Clase4() {
+        system.out.println("constructor privado");
+    }
+
+
+//creamos un constructor public para poder crear objetos
+    public Clase4(String argumento){
+        this();
+        system.out.println("constructor publico");
+    }
+
+
+    private void metodoPrivado(){
+        system.out.println("metodo privado");
+    }
+
+    public String getAtributoPrivate(){
+        return atributoPrivate;
+    }
+
+    public void setAtributoPrivate(String atributoPrivate){ 
+        this.atributoPrivate = atributoPrivate;
+    }
+}
