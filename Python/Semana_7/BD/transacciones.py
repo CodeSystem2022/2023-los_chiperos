@@ -1,4 +1,4 @@
-import psycopg2 as bd #Renombramos e import para usar bd
+import psycopg2 as bd 
 
 
 conexion = bd.connect(user = 'postgres', password = 'admin', host = '127.0.0.1', port = '5432', database = 'test_bd') # podemos pasar una tupla, podemos tener varios parámetros y el ultimo parámetro que podemos pasar puede ser un diccionario
