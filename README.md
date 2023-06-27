@@ -13,4 +13,4 @@
 | 🟢 semana 5 | *Cristian Alderete* |
 | 🟢 semana 6 | *Leo Valdez* |
 | 🟢 semana 7 | *David Mercado* |
-| ⚪ semana 8 | *Agustin Gómez Aranda* |
+| 🟢 semana 8 | *Agustin Gómez Aranda* |
