@@ -14,3 +14,8 @@
 | 🟢 semana 6 | *Leo Valdez* |
 | 🟢 semana 7 | *David Mercado* |
 | 🟢 semana 8 | *Agustin Gómez Aranda* |
+| 🟢 semana 9 | *Gonzalo Araya* |
+| 🟢 semana 10 | *Martín Pertus* |
+| 🟢 semana 11 | *Barrios Schallmoser Juan José* |
+| 🟢 semana 12 | *Nicolás Zelarayan* |
+| 🟢 semana 13 | *Cristian Alderete* |
